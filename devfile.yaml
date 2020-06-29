@@ -7,7 +7,7 @@ projects:
     name: springbootproject
     source:
       type: git
-      location: "https://github.com/odo-devfiles/springboot-ex.git"
+      location: "https://github.com/cdrage/springboot-ex.git"
       startPoint: "19a832267db3087473c71cd3a95341f3c07ae200"
 components:
   -
